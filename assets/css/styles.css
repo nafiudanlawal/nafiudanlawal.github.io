@@ -138,7 +138,10 @@ a.dotted-link:hover {
   margin-top: 60px;
   font-weight: bold;
 }
-
+.header .download {
+  margin-left: 5px;
+  margin-right: 5px;
+}
 .header .profile-image {
   margin-right: 30px;
   width: 150px;
